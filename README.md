@@ -34,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/Sahil-Dalwani/Leetcode-Practise/tree/master/1603-design-parking-system) |
+## Array
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Sahil-Dalwani/Leetcode-Practise/tree/master/0238-product-of-array-except-self) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Sahil-Dalwani/Leetcode-Practise/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
