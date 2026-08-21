@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sahil-Dalwani/Leetcode-Practise/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Sahil-Dalwani/Leetcode-Practise/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/Sahil-Dalwani/Leetcode-Practise/tree/master/0152-maximum-product-subarray) |
 ## Math
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/Sahil-Dalwani/Leetcode-Practise/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/Sahil-Dalwani/Leetcode-Practise/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
 |  |
